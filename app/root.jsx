@@ -11,6 +11,8 @@ import{
     
 } from '@remix-run/react'
 
+
+
 import styles from '~/styles/index.css'
 
 import Header from '~/components/header'
@@ -178,3 +180,7 @@ export function ErrorBoundary(){
         </Document>
     )
 }
+
+
+
+ 
